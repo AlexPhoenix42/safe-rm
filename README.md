@@ -97,13 +97,9 @@ Always double-check before deleting files.
 
 ## 📜 License
 
-MIT License — feel free to use, modify, and share.
-```
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Powered by github.com/AlexPhoenix42 🌈🚀
-
 https://github.com/AlexPhoenix42
