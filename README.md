@@ -101,3 +101,8 @@ MIT License — feel free to use, modify, and share.
 ```
 
 ---
+
+## Powered by github.com/AlexPhoenix42 🌈🚀
+https://github.com/AlexPhoenix42
+
+---
