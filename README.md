@@ -1,4 +1,3 @@
-```markdown
 # 🗑️ safe-rm
 
 A safer, smarter replacement for `rm` written in Bash (with a Fish shell version available too).  
