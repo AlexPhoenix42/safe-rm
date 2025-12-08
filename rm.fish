@@ -53,9 +53,9 @@ function rm
 
     # Help mode
     if test $help_mode -eq 1
-        	echo
-echo -e "\e]8;;https://github.com/AlexPhoenix42\e\\Powered by $BLUEgithub.com/AlexPhoenix42$RESET 🌈🚀\e]8;;\e\\"
-echo
+        echo
+        echo -e "\e]8;;https://github.com/AlexPhoenix42\e\\Powered by $BLUEgithub.com/AlexPhoenix42$RESET 🌈🚀\e]8;;\e\\"
+        echo
         echo "Usage: rm [options] files..."
         echo ""
         echo "Options:"
